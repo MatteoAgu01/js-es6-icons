@@ -1,0 +1,23 @@
+*{
+	font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.my-bg-document{
+	background-color: rgb(184, 201, 216);
+}
+
+.myExCard{
+	width: calc(100% / 6);
+	padding: 1%;
+}
+
+.my-orange{
+	color: orange;
+}
+
+.my-green{
+	color: green;
+}
+
+.my-blue{
+	color: blue;
+}
